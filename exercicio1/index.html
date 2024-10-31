@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hora do Dia</title>
+    <link rel="stylesheet" href="midia/style.css">
+    <script src="script.js"></script>
+</head>
+<body onload="carregar()">
+    <header>
+        <h1>Horario do dia</h1>
+    </header>
+
+    <section>
+        <div id="msg">
+
+            testando....
+
+        </div>
+            
+        <div id="foto" >
+
+            <img id="imagem" src="" alt="foto do dia" >
+
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; LeonardoBolado</p>
+    </footer>
+</body>
+</html>
